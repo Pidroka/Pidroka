@@ -21,8 +21,11 @@ programar em Python.
 ---
 💌 Contatos: 
 
-<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=pedrosoaresty@gmail.com" /></a>
-<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-soares-264463205/" /></a>
+[![Linkedin: Pedro Soares](https://img.shields.io/badge/-pedrosoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-soares-264463205/)](https://www.linkedin.com/in/pedro-soares-264463205/)
+[![Gmail Badge](https://img.shields.io/badge/-pedrosoaresty@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrosoaresty@gmail.com)](mailto:pedrosoaresty@gmail.com)
+[![GitHub Pidroka]( https://img.shields.io/github/followers/pidroka?label=follow&style=social)](https://github.com/pidroka)
+  
+</p>  
 
  
 
