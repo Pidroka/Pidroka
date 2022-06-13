@@ -1,8 +1,7 @@
 ## Olá, meu nome é <strong>Pedro!</strong>
 
 
-🔭 Atualmente estou 
-
+🔭 Atualmente curso Ciência da computação na Unicarioca, tenho interesse na área de desenvolvimento Web e gosto de desenvolver alguns jogos no Godot.  
 
 
 ----
@@ -26,4 +25,10 @@
  
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dropihs&show_icons=true)
+<a href="https://github.com/Davekibh">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dropihs&theme=tokyonight" />
+  </a>
+
+<a href="https://github.com/Davekibh">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=dropihs&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+</a>
