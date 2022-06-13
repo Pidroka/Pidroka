@@ -7,20 +7,23 @@
 ----
 
 ## 🚀 Minhas Skills
+Front-end
+<code><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> </code>
+<code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></code>
+<code><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /></code>
 
-<code><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></code>
-<code><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></code>
-<code><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></code>
-<code><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></code>
+GameDev
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Godot_logo.svg/1280px-Godot_logo.svg.png" height= 30 width= 70 />
 
 ---
 💌 Contatos: 
 
 [![Linkedin: Pedro Soares](https://img.shields.io/badge/-pedrosoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-soares-264463205/)](https://www.linkedin.com/in/pedro-soares-264463205/)
 [![Gmail Badge](https://img.shields.io/badge/-pedrosoaresty@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrosoaresty@gmail.com)](mailto:pedrosoaresty@gmail.com)
-[![GitHub dropihs]( https://img.shields.io/github/followers/pidroka?label=follow&style=social)](https://github.com/dropihs)
-  
-</p>  
+<a href ="https://dropihs.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" height= 20/></a>
+[![GitHub dropihs]( https://img.shields.io/github/followers/dropihs?label=follow&style=social)](https://github.com/dropihs)
+
 
  
 
