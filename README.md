@@ -1,8 +1,7 @@
 ## Olá, meu nome é <strong>Pedro!</strong>
 
 
-🔭 Atualmente curso Ciencia da computação na Unicarioca e venho me dedicando bastante para aprender a usar as ferrementas do Git e tambem a
-programar em Python.
+🔭 Atualmente estou 
 
 
 
@@ -20,11 +19,11 @@ programar em Python.
 
 [![Linkedin: Pedro Soares](https://img.shields.io/badge/-pedrosoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-soares-264463205/)](https://www.linkedin.com/in/pedro-soares-264463205/)
 [![Gmail Badge](https://img.shields.io/badge/-pedrosoaresty@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrosoaresty@gmail.com)](mailto:pedrosoaresty@gmail.com)
-[![GitHub Dropi]( https://img.shields.io/github/followers/pidroka?label=follow&style=social)](https://github.com/dropihs)
+[![GitHub dropihs]( https://img.shields.io/github/followers/pidroka?label=follow&style=social)](https://github.com/dropihs)
   
 </p>  
 
  
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dropihs&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dropihs&show_icons=true)
