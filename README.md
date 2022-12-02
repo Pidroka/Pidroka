@@ -1,7 +1,7 @@
 ## Olá, meu nome é <strong>Pedro!</strong>
 
 
-🔭 Atualmente curso Ciência da computação na Unicarioca, tenho interesse na área de desenvolvimento Web e gosto de desenvolver alguns jogos no Godot.  
+🔭 Formado em Ciência da computação na Unicarioca, tenho interesse na área de desenvolvimento Web e gosto de desenvolver alguns jogos no Godot.  
 
 
 ----
